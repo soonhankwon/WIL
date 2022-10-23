@@ -1,5 +1,27 @@
 # WIL(Weekly I Learned)
 <details>
+<summary>221016(MON) ~ 1023(SUN)</summary>
+<div markdown="1">
+<hr/>
+  
+##### Learned : ORM 데이터베이스 관계, 좋아요기능 구현
+##### Weekly
+프론트엔드와의 협업 과제 전, 백엔드 마지막 과제를 끝냈다. 기존 CRUD, JWT로그인 구현 및 추가적으로 **좋아요기능**을 구현하는데 
+  
+초점을 맞췄던 한 주, 3주간의 스프링 주특기 주가 끝난만큼 앞으로 이 토대 위에 전문적이고 딥한 탐구 및 구현력을 요망📝
+  
+게시글 좋아요 기능을 구현하는데 있어서, 유저와 게시글간 데이터베이스의 관계에 대해 이해하게 되었다.
+
+금요일에는 드디어 처음으로 프론트엔드 팀원 분들과 팀을 이루어 미니프로젝트를 하게되었다. 팀이 구현할 주제 회의 및
+  
+FIGMA를 통한 와이어프레임 구성 등을 완료. 앞으로의 프로젝트들은 좀 더 흥미진진할듯 싶다🤝 
+
+##### Keyword🔑 CORS?
+  
+CORS란 (Cross Origin Resource Sharing) 교차 출처 리소스 공유이다.  
+</div>
+</details>
+<details>
 <summary>221010(MON) ~ 1015(SUN)</summary>
 <div markdown="1">
 <hr/>
