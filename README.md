@@ -1,5 +1,9 @@
 # WIL(Weekly I Learned)
-##### 1. 10/10(MON) ~ 10/15(SUN)
+<details>
+<summary>221010(MON) ~ 1015(SUN)</summary>
+<div markdown="1">
+<hr/>
+
 ##### Learned : Spring CRUD, JWT, SPRING SECURITY
 ##### Weekly 
 저번주에 진행했던 기존 CRUD에 spring **security**와 **JWT**방식을 이용한 로그인을 구현하는데 집중한 주 였다.
@@ -43,3 +47,5 @@ DBMS(Database Management System)에 대한 종속성이 줄어든다.
 사용하기는 편하지만 설계단계에서 신중해야하며, 프로젝트가 복잡해질 경우 난이도 상승
 
 잘못 구현된 경우, 속도저하 및 일관성이 무너지는 문제점이 생길수 있다. 
+</div>
+</details>
